@@ -1,12 +1,11 @@
-package dto;
+package com.example.yilimusic.vo;
 
 import lombok.Data;
-import vo.RoleVo;
 
 import java.util.List;
 
 @Data
-public class UserDto {
+public class UserVo {
     private String id;
     private String username;
     private String nickname;
