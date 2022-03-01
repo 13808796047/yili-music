@@ -1,6 +1,6 @@
 package com.example.yilimusic.service;
 
-import dto.UserDto;
+import com.example.yilimusic.dto.UserDto;
 
 import java.util.List;
 

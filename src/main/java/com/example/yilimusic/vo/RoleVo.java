@@ -1,4 +1,4 @@
-package vo;
+package com.example.yilimusic.vo;
 
 import lombok.Data;
 

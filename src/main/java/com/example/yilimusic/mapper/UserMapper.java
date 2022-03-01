@@ -1,10 +1,10 @@
 package com.example.yilimusic.mapper;
 
+import com.example.yilimusic.dto.UserDto;
 import com.example.yilimusic.entity.User;
-import dto.UserDto;
+import com.example.yilimusic.vo.UserVo;
 import org.mapstruct.Mapper;
 import org.springframework.stereotype.Component;
-import vo.UserVo;
 
 @Mapper(componentModel = "spring")
 @Component
