@@ -1,8 +1,9 @@
-package com.example.yilimusic.service;
+package com.example.yilimusic.service.impl;
 
 import com.example.yilimusic.dto.UserDto;
 import com.example.yilimusic.mapper.UserMapper;
 import com.example.yilimusic.repository.UserRepository;
+import com.example.yilimusic.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
